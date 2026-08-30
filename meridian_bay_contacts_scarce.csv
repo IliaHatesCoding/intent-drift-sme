@@ -1,0 +1,416 @@
+contact_id,name,email,relationship_status,investor_classification,marketing_consent,consent_date,collection_purpose,last_contact_date,engagement_score,portfolio_ref,notes
+MBC-0001,Ka Ming Cheung,ka.ming.cheung1@example.invalid,CURRENT_CLIENT,professional,,,portfolio_management,2025-10-18,32,PF-0001,"Reviewed suitability 2025. Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0002,Ka Ming Mendoza,ka.ming.mendoza2@example.invalid,current_client,,yes,2023-08-13,portfolio_management,2026-07-08,57,PF-0002,Prefers PDF attachments. PI status confirmed at onboarding.
+MBC-0003,Oliver Fitzgerald,oliver.fitzgerald3@example.invalid,current_client,professional,yes,2024-08-16,portfolio_management,2026-01-14,20,PF-0003,Discretionary mandate.
+MBC-0004,Ravi Sit,ravi.sit4@example.invalid,current_client,professional,,,portfolio_management,2025-10-07,96,PF-0004,Quarterly reporting opt-in.
+MBC-0005,Pak Ho Hartley,pak.ho.hartley5@example.invalid,current_client, professional ,verbal - to confirm,,portfolio_management,2026-07-03,97,PF-0005,Quarterly reporting opt-in.
+MBC-0006,Hana Fitzgerald,HANA.FITZGERALD6@example.invalid,current_client, professional ,,,portfolio_management,2026-05-09,57,PF-0006,Consent form not returned after migration.
+MBC-0007,Siu Fung Lee,siu.fung.lee7@example.invalid, current_client ,professional,,,portfolio_management,2026-04-01,99,PF-0007,Quarterly reporting opt-in. Consent form not returned after migration.
+MBC-0008,JAMES DELACROIX,james.delacroix8@example.invalid,current_client, professional ,,,portfolio_management,2026-03-20,36,PF-0008,"Prefers PDF attachments. Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0009,Sui Lin Tang,sui.lin.tang9@example.invalid,current_client,professional,,,portfolio_management,2026-03-10,11,PF-0009,"Reviewed suitability 2025. Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0010,Priya Hartley,priya_hartley10@example.invalid,Current_client,professional,verbal - to confirm,,portfolio_management,2026-01-16,60,PF-0010,Quarterly reporting opt-in.
+MBC-0011,Priya Chow,priya.chow11@example.invalid,current_client,professional,,,portfolio_management,2026-01-04,86,PF-0011,"Prefers PDF attachments. Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0012,Pak Ho Aldrich,pak.ho.aldrich12@example.invalid,current_client,,yes,2021-10-26,portfolio_management,2026-06-21,31,PF-0012,Discretionary mandate. PI status confirmed at onboarding.
+MBC-0013,Thomas Ma,thomas.ma13@example.invalid,CURRENT_CLIENT,professional,verbal - to confirm,,portfolio_management,2026-08-04,95,PF-0013,Reviewed suitability 2025.
+MBC-0014,KA MING OSEI,ka.ming.osei14@example.invalid,current_client,professional,,,portfolio_management,2025-09-12,91,PF-0014,Consent form not returned after migration.
+MBC-0015,Elena Cheung,elena_cheung15@example.invalid,current_client,professional,,,portfolio_management,2026-07-03,27,PF-0015,
+MBC-0016, Claire Chan ,CLAIRE.CHAN16@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2026-01-12,81,PF-0016,
+MBC-0017,Siu Fung Wong,siu.fung.wong17@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2025-11-15,92,PF-0017,Reviewed suitability 2025.
+MBC-0018,Hana Petrov,HANA.PETROV18@example.invalid,current_client,professional,,,portfolio_management,2026-07-13,0,PF-0018,Prefers PDF attachments.
+MBC-0019,Aisha Okonkwo,aisha.okonkwo19@example.invalid,current_client,,yes,2022-02-17,portfolio_management,2026-05-10,27,PF-0019, PI status confirmed at onboarding.
+MBC-0020,Daniel Chow,daniel_chow20@example.invalid,current_client,professional,,,portfolio_management,2025-09-14,55,PF-0020,Prefers PDF attachments. Consent form not returned after migration.
+MBC-0021,BEATRICE NAKAMURA,beatrice.nakamura21@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2026-05-25,28,PF-0021,
+MBC-0022,Hana Chow,HANA.CHOW22@example.invalid,current_client,professional,yes,2023-02-02,portfolio_management,2025-12-03,41,PF-0022,Reviewed suitability 2025.
+MBC-0023,Thomas Kwok,thomas.kwok23@example.invalid, current_client ,professional,,,portfolio_management,2026-04-03,62,PF-0023,Discretionary mandate.
+MBC-0024,Priya Fung,priya_fung24@example.invalid,current_client,professional,,,portfolio_management,2026-07-03,14,PF-0024,Reviewed suitability 2025.
+MBC-0025,Sui Lin Nakamura,sui.lin.nakamura25@example.invalid,current_client,professional,,,portfolio_management,2025-11-18,55,PF-0025,Discretionary mandate. Consent form not returned after migration.
+MBC-0026,Chun Yu Tsang,chun.yu.tsang26@example.invalid,CURRENT_CLIENT,professional,,,portfolio_management,2025-11-30,78,PF-0026,
+MBC-0027, Chun Yu Yip ,chun_yu_yip27@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2025-11-24,58,PF-0027,
+MBC-0028,Chun Yu Delacroix,chun.yu.delacroix28@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2025-08-30,68,PF-0028,Discretionary mandate.
+MBC-0029,Ka Ming Lam,ka.ming.lam29@example.invalid,current_client,professional,,,portfolio_management,2025-07-17,58,PF-0029,Reviewed suitability 2025.
+MBC-0030,Hana chow,hana.chow30@example.invalid,current_client,professional,,,portfolio_management,2025-10-14,44,PF-0030,Prefers PDF attachments. Consent form not returned after migration.
+MBC-0031,Oliver Osei,oliver.osei31@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2026-03-16,22,PF-0031,Reviewed suitability 2025.
+MBC-0032,Siu Fung Tsang,SIU.FUNG.TSANG32@example.invalid,current_client, professional ,,,portfolio_management,2026-07-11,26,PF-0032,Quarterly reporting opt-in. Consent form not returned after migration.
+MBC-0033,Wing Ma,wing.ma33@example.invalid,current_client,professional,,,portfolio_management,2026-01-21,56,PF-0033,Quarterly reporting opt-in.
+MBC-0034,Rafael Nakamura,rafael.nakamura34@example.invalid,current_client,PROFESSIONAL,,,portfolio_management,2025-10-21,4,PF-0034,Reviewed suitability 2025.
+MBC-0035,Priya Fitzgerald,PRIYA.FITZGERALD35@example.invalid,current_client,professional,,,portfolio_management,2026-03-12,77,PF-0035,Consent form not returned after migration.
+MBC-0036,Mei Ling Bakshi,mei.ling.bakshi36@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2025-11-21,51,PF-0036,
+MBC-0037,Elena Fitzgerald,elena.fitzgerald37@example.invalid,current_client,professional,,,portfolio_management,2025-11-27,33,PF-0037,
+MBC-0038,James Chan,james.chan38@example.invalid,current_client,professional,,,portfolio_management,2025-08-31,19,PF-0038,"Quarterly reporting opt-in. Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0039,Sebastian Chan,sebastian_chan39@example.invalid,current_client,PROFESSIONAL,,,portfolio_management,2025-11-28,32,PF-0039,Consent form not returned after migration.
+MBC-0040,Chun Yu Chan,chun.yu.chan40@example.invalid,current_client,professional,yes,,portfolio_management,2026-03-29,45,PF-0040,Quarterly reporting opt-in.
+MBC-0041,Sebastian Sorensen,sebastian.sorensen41@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2026-05-18,79,PF-0041,Quarterly reporting opt-in.
+MBC-0042,Victor Kwok,VICTOR.KWOK42@example.invalid,current_client,,yes,2024-06-23,portfolio_management,2026-05-17,92,PF-0042,Discretionary mandate. PI status confirmed at onboarding.
+MBC-0043,Elena Yip,elena_yip43@example.invalid,current_client,professional,,,portfolio_management,2025-09-17,60,PF-0043,Quarterly reporting opt-in.
+MBC-0044,Elena Aldrich,elena.aldrich44@example.invalid,current_client,professional,,,portfolio_management,2025-09-12,100,PF-0044,Prefers PDF attachments.
+MBC-0045,Siu Fung Yeung,siu_fung_yeung45@example.invalid,current_client,,yes,2022-01-21,portfolio_management,2025-07-18,93,PF-0045,Reviewed suitability 2025. PI status confirmed at onboarding.
+MBC-0046,Sui Lin Tsang,sui.lin.tsang46@example.invalid,current_client,,yes,2024-07-29,portfolio_management,2026-05-28,33,PF-0046,Prefers PDF attachments. PI status confirmed at onboarding.
+MBC-0047,Pak Ho Kwok,pak.ho.kwok47@example.invalid,current_client,professional,,,portfolio_management,2025-10-18,25,PF-0047,Reviewed suitability 2025.
+MBC-0048,Chun Yu Tang,chun.yu.tang48@example.invalid,current_client,,yes,2024-09-30,portfolio_management,2026-03-22,65,PF-0048, PI status confirmed at onboarding.
+MBC-0049,Victor Ma,victor.ma49@example.invalid, current_client ,professional,,,portfolio_management,2025-10-10,29,PF-0049,Prefers PDF attachments.
+MBC-0050,Ravi Sorensen,ravi.sorensen50@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2025-11-15,10,PF-0050,Quarterly reporting opt-in.
+MBC-0051,Mei Ling Ma,mei_ling_ma51@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2025-10-01,70,PF-0051,Quarterly reporting opt-in.
+MBC-0052,Thomas Chow,thomas_chow52@example.invalid,current_client,PROFESSIONAL,yes,2021-12-15,portfolio_management,2025-08-16,89,PF-0052,
+MBC-0053,Daniel Chow,daniel_chow53@example.invalid, current_client ,professional,,,portfolio_management,2026-08-03,0,PF-0053,Reviewed suitability 2025.
+MBC-0054,Aisha Pang,aisha.pang54@example.invalid,current_client,Professional,,,portfolio_management,2026-05-22,42,PF-0054,Prefers PDF attachments.
+MBC-0055,Beatrice Ho,beatrice_ho55@example.invalid,current_client,professional,yes,2024-08-27,portfolio_management,2025-11-02,23,PF-0055,Quarterly reporting opt-in.
+MBC-0056,Elena Kwok,elena.kwok56@example.invalid,current_client,Professional,,,portfolio_management,2026-03-01,12,PF-0056,Discretionary mandate.
+MBC-0057,Sebastian Bakshi,sebastian.bakshi57@example.invalid, current_client ,professional,,,portfolio_management,2026-01-06,34,PF-0057,Prefers PDF attachments.
+MBC-0058,NOOR CHAN,noor.chan58@example.invalid,CURRENT_CLIENT,professional,,,portfolio_management,2026-05-22,43,PF-0058,Quarterly reporting opt-in. Consent form not returned after migration.
+MBC-0059,Thomas Nakamura,thomas.nakamura59@example.invalid, current_client ,,yes,2024-06-07,portfolio_management,2025-10-11,77,PF-0059,Prefers PDF attachments. PI status confirmed at onboarding.
+MBC-0060,Victor Petrov,victor.petrov60@example.invalid,current_client,professional,yes,,portfolio_management,2026-07-25,14,PF-0060,Reviewed suitability 2025.
+MBC-0061,Beatrice Chan,beatrice_chan61@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2025-12-18,33,PF-0061,Quarterly reporting opt-in.
+MBC-0062,Noor Petrov,NOOR.PETROV62@example.invalid,current_client,professional,,,portfolio_management,2025-08-27,32,PF-0062,Reviewed suitability 2025. Consent form not returned after migration.
+MBC-0063,Wing Chan,wing.chan63@example.invalid,current_client,professional,,,portfolio_management,2026-04-23,0,PF-0063,Prefers PDF attachments. Consent form not returned after migration.
+MBC-0064,Kwok Wai Petrov,kwok.wai.petrov64@example.invalid,current_client,,yes,,portfolio_management,2025-09-19,93,PF-0064,Prefers PDF attachments. PI status confirmed at onboarding.
+MBC-0065,Chun Yu Sit,chun.yu.sit65@example.invalid,current_client,professional,,,portfolio_management,2025-09-04,51,PF-0065,Discretionary mandate.
+MBC-0066,Aisha Chan,aisha.chan66@example.invalid,current_client,professional,,,portfolio_management,2026-06-23,23,PF-0066,Reviewed suitability 2025.
+MBC-0067,Margit Chow,margit.chow67@example.invalid,current_client,professional,,,portfolio_management,2026-07-08,97,PF-0067,"Discretionary mandate. Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0068,Claire Ng,claire_ng68@example.invalid,current_client,professional,,,portfolio_management,2025-10-01,16,PF-0068,Reviewed suitability 2025.
+MBC-0069,Thomas Kwok,thomas_kwok69@example.invalid,current_client,professional,yes,2023-03-03,portfolio_management,2026-03-16,84,PF-0069,Quarterly reporting opt-in.
+MBC-0070,Ingrid Yeung,ingrid.yeung70@example.invalid,Current_client,professional,yes,2023-09-14,portfolio_management,2025-08-13,30,PF-0070,Reviewed suitability 2025.
+MBC-0071,Chun Yu Cheung,chun.yu.cheung71@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2026-01-07,53,PF-0071,Discretionary mandate.
+MBC-0072,Claire Lee,claire_lee72@example.invalid,current_client,professional,,,portfolio_management,2025-09-27,73,PF-0072,"Prefers PDF attachments. Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0073,Victor Lam,victor.lam73@example.invalid,current_client,,yes,2023-07-07,portfolio_management,2025-12-17,97,PF-0073, PI status confirmed at onboarding.
+MBC-0074,Sui Lin Ho,SUI.LIN.HO74@example.invalid,current_client,,yes,2023-05-14,portfolio_management,2025-11-08,67,PF-0074,Prefers PDF attachments. PI status confirmed at onboarding.
+MBC-0075,James Hartley,james.hartley75@example.invalid,current_client,,yes,2022-04-07,portfolio_management,2025-10-02,67,PF-0075,Discretionary mandate. PI status confirmed at onboarding.
+MBC-0076,Thomas Lam,thomas.lam76@example.invalid,current_client,,yes,2023-09-20,portfolio_management,2025-10-07,83,PF-0076,Quarterly reporting opt-in. PI status confirmed at onboarding.
+MBC-0077,Ingrid Ma,ingrid.ma77@example.invalid,CURRENT_CLIENT,PROFESSIONAL,,,portfolio_management,2025-11-02,98,PF-0077,Prefers PDF attachments. Consent form not returned after migration.
+MBC-0078,Hana Bakshi,hana.bakshi78@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2026-06-01,6,PF-0078,Reviewed suitability 2025.
+MBC-0079,Ingrid Sorensen,ingrid.sorensen79@example.invalid,current_client, professional ,,,portfolio_management,2025-11-25,27,PF-0079,Quarterly reporting opt-in.
+MBC-0080,Chun Yu Lee,chun.yu.lee80@example.invalid,current_client,professional,,,portfolio_management,2026-07-21,26,PF-0080,Reviewed suitability 2025.
+MBC-0081,Kwok Wai Sit,kwok_wai_sit81@example.invalid,current_client, professional ,,,portfolio_management,2026-07-16,45,PF-0081,Quarterly reporting opt-in.
+MBC-0082,Ho Yin Ng,HO.YIN.NG82@example.invalid,CURRENT_CLIENT,professional,,,portfolio_management,2025-09-13,13,PF-0082,Prefers PDF attachments.
+MBC-0083,Sui Lin Chan,sui.lin.chan83@example.invalid,current_client,professional,,,portfolio_management,2026-04-29,99,PF-0083,"Discretionary mandate. Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0084,Siu Fung Petrov,siu_fung_petrov84@example.invalid,current_client,professional,,,portfolio_management,2025-10-09,9,PF-0084,Quarterly reporting opt-in.
+MBC-0085,Siu Fung Fung,siu.fung.fung85@example.invalid,current_client,professional,,,portfolio_management,2026-01-11,67,PF-0085,"Reviewed suitability 2025. Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0086,Hana Delacroix,hana.delacroix86@example.invalid,current_client,professional,,,portfolio_management,2026-07-20,55,PF-0086,Prefers PDF attachments.
+MBC-0087,Pak Ho Chow,pak.ho.chow87@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2025-09-24,85,PF-0087,
+MBC-0088,Ingrid Ng,ingrid.ng88@example.invalid,current_client,professional,yes,2024-09-04,portfolio_management,2026-03-25,23,PF-0088,Prefers PDF attachments.
+MBC-0089, Claire Ng ,claire.ng89@example.invalid,current_client,professional,,,portfolio_management,2026-06-21,86,PF-0089,Quarterly reporting opt-in.
+MBC-0090,Chun Yu Delacroix,CHUN.YU.DELACROIX90@example.invalid, current_client ,,yes,2022-11-18,portfolio_management,2026-02-22,98,PF-0090,Prefers PDF attachments. PI status confirmed at onboarding.
+MBC-0091,Hana Lau,HANA.LAU91@example.invalid,current_client,professional,,,portfolio_management,2026-05-20,68,PF-0091,Quarterly reporting opt-in.
+MBC-0092, Sebastian Nakamura ,sebastian.nakamura92@example.invalid,current_client,professional,,,portfolio_management,2025-12-12,13,PF-0092,Discretionary mandate.
+MBC-0093,Oliver Yip,oliver.yip93@example.invalid,current_client,professional,,,portfolio_management,2025-09-13,42,PF-0093,Consent form not returned after migration.
+MBC-0094,Victor Tsang,VICTOR.TSANG94@example.invalid,CURRENT_CLIENT,professional,,,portfolio_management,2026-06-17,44,PF-0094,Prefers PDF attachments.
+MBC-0095,Pak Ho Ho,pak.ho.ho95@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2026-03-14,29,PF-0095,Discretionary mandate.
+MBC-0096,Yee Man Osei,yee.man.osei96@example.invalid,current_client,professional,,,portfolio_management,2025-08-23,89,PF-0096,Discretionary mandate.
+MBC-0097,Elena Ma,elena.ma97@example.invalid,current_client,professional,,,portfolio_management,2025-07-18,14,PF-0097,"Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0098,Wing Rossi,wing.rossi98@example.invalid,current_client, professional ,,,portfolio_management,2026-04-16,59,PF-0098,"Quarterly reporting opt-in. Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0099,Claire Kwok,claire.kwok99@example.invalid,current_client,,yes,2024-05-24,portfolio_management,2025-08-13,42,PF-0099,Discretionary mandate. PI status confirmed at onboarding.
+MBC-0100,Priya Pang,priya.pang100@example.invalid,current_client,professional,yes,2025-02-20,portfolio_management,2026-01-20,14,PF-0100,Reviewed suitability 2025.
+MBC-0101,Oliver Lam,oliver.lam101@example.invalid,current_client,professional,,,portfolio_management,2025-08-26,99,PF-0101,
+MBC-0102,Sebastian Rossi,sebastian_rossi102@example.invalid,current_client,professional,,,portfolio_management,2026-02-23,100,PF-0102,Quarterly reporting opt-in.
+MBC-0103,Mei Ling Cheung,mei_ling_cheung103@example.invalid,current_client,,yes,2025-11-22,portfolio_management,2025-11-03,16,PF-0103,Quarterly reporting opt-in. PI status confirmed at onboarding.
+MBC-0104,Mei Ling Cheung,mei_ling_cheung104@example.invalid,current_client,professional,,,portfolio_management,2025-10-03,9,PF-0104,"Quarterly reporting opt-in. Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0105,Pak Ho Hartley,pak_ho_hartley105@example.invalid,Current_client,PROFESSIONAL,verbal - to confirm,,portfolio_management,2026-02-21,82,PF-0105,Prefers PDF attachments.
+MBC-0106,Kwok Wai Hartley,kwok_wai_hartley106@example.invalid,Current_client,professional,verbal - to confirm,,portfolio_management,2026-04-24,92,PF-0106,
+MBC-0107,Sebastian Aldrich,sebastian.aldrich107@example.invalid,current_client,Professional,,,portfolio_management,2026-07-13,100,PF-0107,Prefers PDF attachments.
+MBC-0108,Ka Ming Chow,ka.ming.chow108@example.invalid,Current_client,professional,yes,2023-02-01,portfolio_management,2026-01-30,29,PF-0108,
+MBC-0109,Victor Aldrich,VICTOR.ALDRICH109@example.invalid, current_client ,professional,,,portfolio_management,2026-07-16,98,PF-0109,Prefers PDF attachments.
+MBC-0110,Yee Man Hartley,yee.man.hartley110@example.invalid,current_client,professional,,,portfolio_management,2025-11-17,15,PF-0110,Prefers PDF attachments.
+MBC-0111,Ravi Delacroix,ravi.delacroix111@example.invalid,current_client,professional,,,portfolio_management,2026-07-18,65,PF-0111,Prefers PDF attachments. Consent form not returned after migration.
+MBC-0112,Victor Chow,victor.chow112@example.invalid,current_client,professional,yes,2022-05-07,portfolio_management,2025-09-16,35,PF-0112,Discretionary mandate.
+MBC-0113,Sui Lin Sorensen,sui.lin.sorensen113@example.invalid,current_client,professional,yes,,portfolio_management,2026-02-21,16,PF-0113,Reviewed suitability 2025.
+MBC-0114, Priya Yip ,priya_yip114@example.invalid,current_client,professional,,,portfolio_management,2025-08-29,94,PF-0114,"Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0115, Ravi Nakamura ,ravi.nakamura115@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2026-01-15,41,PF-0115,Discretionary mandate.
+MBC-0116,Daniel Ng,daniel_ng116@example.invalid,current_client,PROFESSIONAL,,,portfolio_management,2026-02-06,96,PF-0116,Prefers PDF attachments.
+MBC-0117,Victor Pang,victor.pang117@example.invalid,Current_client, professional ,,,portfolio_management,2025-09-04,99,PF-0117,
+MBC-0118,Yee Man Ng,yee.man.ng118@example.invalid,current_client,professional,,,portfolio_management,2026-04-30,13,PF-0118,"Quarterly reporting opt-in. Client indicated happy to receive updates (noted at review meeting, not formally recorded)."
+MBC-0119,James Lee,james.lee119@example.invalid,current_client, professional ,yes,2023-03-12,portfolio_management,2026-06-18,47,PF-0119,Prefers PDF attachments.
+MBC-0120,Kwok Wai Cheung,KWOK.WAI.CHEUNG120@example.invalid,current_client,,yes,2025-01-07,portfolio_management,2026-02-04,72,PF-0120, PI status confirmed at onboarding.
+MBC-0121,Priya Lee,priya.lee121@example.invalid,current_client, professional ,,,portfolio_management,2026-06-24,11,PF-0121,Consent form not returned.
+MBC-0122,Sui Lin Sorensen,sui.lin.sorensen122@example.invalid,current_client,Professional,,,portfolio_management,2026-05-23,25,PF-0122,Chased for signature twice.
+MBC-0123,Marcus Cheung,marcus.cheung123@example.invalid,current_client,professional,,,portfolio_management,2026-03-12,57,PF-0123,Consent form not returned.
+MBC-0124,Daniel Lam,daniel_lam124@example.invalid,current_client,,,,portfolio_management,2026-05-05,92,PF-0124,Consent form not returned. PI status confirmed at onboarding.
+MBC-0125,James Osei,james_osei125@example.invalid,current_client,PROFESSIONAL,,,portfolio_management,2025-07-08,97,PF-0125,Consent form not returned.
+MBC-0126,Priya Bakshi,priya_bakshi126@example.invalid,CURRENT_CLIENT,professional,,,portfolio_management,2026-05-02,87,PF-0126,Consent form not returned.
+MBC-0127, Elena Bakshi ,ELENA.BAKSHI127@example.invalid,current_client,professional,,,portfolio_management,2026-07-04,25,PF-0127,Chased for signature twice.
+MBC-0128, Marcus Osei ,marcus.osei128@example.invalid,current_client,professional,,,portfolio_management,2026-04-12,6,PF-0128,Onboarding pack incomplete.
+MBC-0129,Yee Man Okonkwo,yee.man.okonkwo129@example.invalid,current_client,,,,portfolio_management,2025-12-27,38,PF-0129,Chased for signature twice. PI status confirmed at onboarding.
+MBC-0130,Elena Rossi,elena_rossi130@example.invalid,current_client,professional,,,portfolio_management,2026-07-14,86,PF-0130,Onboarding pack incomplete.
+MBC-0131,Sui Lin Kwok,sui.lin.kwok131@example.invalid,current_client, professional ,,,portfolio_management,2026-01-03,8,PF-0131,Chased for signature twice.
+MBC-0132,Margit Wong,margit.wong132@example.invalid,current_client,professional,,,portfolio_management,2026-03-18,42,PF-0132,
+MBC-0133,Claire Petrov,claire.petrov133@example.invalid, current_client ,professional,,,portfolio_management,2026-01-17,32,PF-0133,Onboarding pack incomplete.
+MBC-0134,Yee Man Kwok,yee.man.kwok134@example.invalid,current_client, professional ,,,portfolio_management,2026-01-30,7,PF-0134,Onboarding pack incomplete.
+MBC-0135,Victor Lee,victor.lee135@example.invalid,current_client,professional,,,portfolio_management,2026-04-29,89,PF-0135,Onboarding pack incomplete.
+MBC-0136,Margit Osei,MARGIT.OSEI136@example.invalid,current_client, professional ,,,portfolio_management,2026-05-05,19,PF-0136,
+MBC-0137,Priya Chow,priya_chow137@example.invalid, current_client ,professional,,,portfolio_management,2025-12-30,87,PF-0137,Onboarding pack incomplete.
+MBC-0138,Victor Osei,VICTOR.OSEI138@example.invalid,current_client,professional,,,portfolio_management,2026-03-01,82,PF-0138,
+MBC-0139,Oliver Osei,oliver.osei139@example.invalid,Current_client,professional,,,portfolio_management,2025-10-30,75,PF-0139,Consent form not returned.
+MBC-0140,Beatrice Sit,beatrice.sit140@example.invalid,current_client,professional,,,portfolio_management,2025-08-02,26,PF-0140,Onboarding pack incomplete.
+MBC-0141,Sui lin ma,sui.lin.ma141@example.invalid, current_client ,,,,portfolio_management,2026-07-17,15,PF-0141,Onboarding pack incomplete. PI status confirmed at onboarding.
+MBC-0142,Yee Man Delacroix,yee_man_delacroix142@example.invalid,current_client, professional ,,,portfolio_management,2026-03-24,5,PF-0142,Consent form not returned.
+MBC-0143,Victor Ma,victor.ma143@example.invalid,current_client,professional,,,portfolio_management,2026-05-15,82,PF-0143,Chased for signature twice.
+MBC-0144,Marcus Chow,marcus_chow144@example.invalid,Current_client,professional,,,portfolio_management,2026-07-23,1,PF-0144,
+MBC-0145,Beatrice Chan,beatrice_chan145@example.invalid,current_client,professional,,,portfolio_management,2026-05-17,63,PF-0145,
+MBC-0146,Ho Yin Wong,HO.YIN.WONG146@example.invalid,current_client,,,,portfolio_management,2026-01-05,66,PF-0146,Consent form not returned. PI status confirmed at onboarding.
+MBC-0147,Elena Ng,elena.ng147@example.invalid,current_client,professional,,,portfolio_management,2025-09-29,39,PF-0147,Onboarding pack incomplete.
+MBC-0148,CLAIRE PETROV,claire.petrov148@example.invalid, current_client ,,,,portfolio_management,2026-04-10,40,PF-0148,Chased for signature twice. PI status confirmed at onboarding.
+MBC-0149,Aisha Cheung,aisha.cheung149@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2025-11-25,94,PF-0149,"Agreed by phone, written confirmation pending."
+MBC-0150,Thomas Chow,thomas.chow150@example.invalid, current_client ,professional,verbal - to confirm,,portfolio_management,2025-11-12,60,PF-0150,
+MBC-0151,Ho Yin Yip,ho.yin.yip151@example.invalid,current_client, professional ,verbal - to confirm,,portfolio_management,2026-03-17,20,PF-0151,Verbal opt-in at review meeting.
+MBC-0152,Ho Yin Sorensen,HO.YIN.SORENSEN152@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2025-08-28,48,PF-0152,
+MBC-0153,Priya Ma,priya.ma153@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2026-01-07,7,PF-0153,
+MBC-0154,Yee Man Fung,yee.man.fung154@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2025-08-17,33,PF-0154,
+MBC-0155,Sui Lin Chan,sui.lin.chan155@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2025-11-25,47,PF-0155,Verbal opt-in at review meeting.
+MBC-0156,KA MING TANG,ka.ming.tang156@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2026-03-21,44,PF-0156,
+MBC-0157,Ka Ming Lam,KA.MING.LAM157@example.invalid,current_client, professional ,verbal - to confirm,,portfolio_management,2026-07-05,32,PF-0157,"Agreed by phone, written confirmation pending."
+MBC-0158, Yee Man Yip ,yee.man.yip158@example.invalid,current_client,PROFESSIONAL,verbal - to confirm,,portfolio_management,2026-03-07,29,PF-0158,"Agreed by phone, written confirmation pending."
+MBC-0159,James Okonkwo,james.okonkwo159@example.invalid,CURRENT_CLIENT,professional,verbal - to confirm,,portfolio_management,2026-01-28,6,PF-0159,Verbal opt-in at review meeting.
+MBC-0160,Wing Tang,wing.tang160@example.invalid,current_client,professional,verbal - to confirm,,portfolio_management,2026-06-03,19,PF-0160,
+MBC-0161,Pak Ho Nakamura,pak.ho.nakamura161@example.invalid,CURRENT_CLIENT,retail,yes,2023-07-01,portfolio_management,2026-06-06,3,PF-0161,Legacy account pre-2018.
+MBC-0162,Elena Petrov,elena.petrov162@example.invalid,current_client,retail,yes,,portfolio_management,2026-03-27,10,PF-0162,Retail classification on file.
+MBC-0163,Beatrice Ma,BEATRICE.MA163@example.invalid,current_client, retail ,yes,2022-06-11,portfolio_management,2026-04-20,67,PF-0163,Wants simplified statements.
+MBC-0164,Siu Fung Wong,siu_fung_wong164@example.invalid,current_client,retail,yes,2022-03-02,portfolio_management,2025-06-09,44,PF-0164,Advisory only.
+MBC-0165,Rafael Ho,rafael.ho165@example.invalid,current_client,RETAIL,yes,,portfolio_management,2025-12-17,77,PF-0165,Retail classification on file.
+MBC-0166,Siu Fung Sorensen,siu.fung.sorensen166@example.invalid,current_client,retail,yes,2023-01-05,portfolio_management,2026-05-02,20,PF-0166,Retail classification on file.
+MBC-0167,Beatrice Osei,beatrice.osei167@example.invalid,current_client,retail,yes,2023-06-16,portfolio_management,2025-12-07,33,PF-0167,
+MBC-0168, Wing Mendoza ,wing.mendoza168@example.invalid,current_client,retail,yes,,portfolio_management,2026-07-03,22,PF-0168,Wants simplified statements.
+MBC-0169,James Petrov,james.petrov169@example.invalid,current_client,retail,yes,2024-07-05,portfolio_management,2026-07-15,24,PF-0169,Advisory only.
+MBC-0170,Pak Ho Yip,pak.ho.yip170@example.invalid,current_client,retail,yes,2023-03-24,portfolio_management,2025-07-05,68,PF-0170,Legacy account pre-2018.
+MBC-0171,Oliver Nakamura,oliver.nakamura171@example.invalid,current_client, retail ,yes,2025-07-27,portfolio_management,2026-07-12,61,PF-0171,
+MBC-0172,Ingrid Fitzgerald,ingrid.fitzgerald172@example.invalid,current_client,retail,yes,2024-03-10,portfolio_management,2025-04-29,53,PF-0172,
+MBC-0173,Rafael Lam,rafael.lam173@example.invalid,Current_client,retail,yes,2022-07-04,portfolio_management,2025-07-16,100,PF-0173,Advisory only.
+MBC-0174,Noor Hartley,noor.hartley174@example.invalid,current_client,retail,yes,2023-12-10,portfolio_management,2025-12-24,96,PF-0174,Advisory only.
+MBC-0175, Noor Chow ,noor.chow175@example.invalid,current_client,retail,yes,2021-11-23,portfolio_management,2025-09-15,66,PF-0175,
+MBC-0176,Marcus Aldrich,MARCUS.ALDRICH176@example.invalid,CURRENT_CLIENT,RETAIL,yes,,portfolio_management,2026-02-08,60,PF-0176,Wants simplified statements.
+MBC-0177,Priya Sit,priya.sit177@example.invalid, current_client ,Retail,yes,2025-07-30,portfolio_management,2025-10-17,79,PF-0177,Advisory only.
+MBC-0178,Priya Yeung,PRIYA.YEUNG178@example.invalid,current_client,retail,yes,2025-02-13,portfolio_management,2025-12-24,91,PF-0178,Legacy account pre-2018.
+MBC-0179,Marcus Fitzgerald,marcus.fitzgerald179@example.invalid,current_client,retail,yes,2024-06-19,portfolio_management,2025-11-04,13,PF-0179,Advisory only.
+MBC-0180,Ravi Aldrich,RAVI.ALDRICH180@example.invalid,current_client,retail,yes,,portfolio_management,2025-12-12,96,PF-0180,Advisory only.
+MBC-0181,Ho Yin Yeung,ho.yin.yeung181@example.invalid, current_client ,retail,yes,2025-06-29,portfolio_management,2025-10-07,13,PF-0181,Legacy account pre-2018.
+MBC-0182,Ho Yin Rossi,ho.yin.rossi182@example.invalid, current_client ,Retail,yes,2021-12-23,portfolio_management,2026-04-10,40,PF-0182,
+MBC-0183, Ravi Yeung ,ravi_yeung183@example.invalid,current_client,retail,yes,2025-12-09,portfolio_management,2026-01-16,12,PF-0183,Retail classification on file.
+MBC-0184,Mei Ling Lau,mei.ling.lau184@example.invalid,current_client,retail,yes,2023-04-12,portfolio_management,2025-09-01,92,PF-0184,Retail classification on file.
+MBC-0185,Beatrice Mendoza,beatrice.mendoza185@example.invalid,current_client,retail,yes,2021-09-27,portfolio_management,2025-12-06,97,PF-0185,Legacy account pre-2018.
+MBC-0186,Marcus Rossi,MARCUS.ROSSI186@example.invalid,CURRENT_CLIENT,retail,yes,2023-03-02,portfolio_management,2025-10-30,79,PF-0186,Legacy account pre-2018.
+MBC-0187,Mei Ling Cheung,mei.ling.cheung187@example.invalid,current_client,Retail,yes,2023-04-09,portfolio_management,2025-06-01,76,PF-0187,Legacy account pre-2018.
+MBC-0188, Pak Ho Tsang ,pak.ho.tsang188@example.invalid,current_client,retail,yes,2021-10-18,portfolio_management,2025-07-11,63,PF-0188,Retail classification on file.
+MBC-0189,KWOK WAI OSEI,kwok.wai.osei189@example.invalid, current_client ,retail,yes,,portfolio_management,2026-01-09,1,PF-0189,Retail classification on file.
+MBC-0190,Daniel Kwok,daniel.kwok190@example.invalid,current_client,RETAIL,yes,2024-10-22,portfolio_management,2026-05-13,98,PF-0190,
+MBC-0191,Thomas Mendoza,thomas.mendoza191@example.invalid,current_client,retail,yes,2025-03-28,portfolio_management,2026-02-25,94,PF-0191,Retail classification on file.
+MBC-0192,Victor Cheung,victor.cheung192@example.invalid,current_client,retail,yes,2022-06-22,portfolio_management,2025-04-11,25,PF-0192,Legacy account pre-2018.
+MBC-0193,Oliver Osei,oliver.osei193@example.invalid,current_client,retail,yes,2022-07-14,portfolio_management,2025-12-11,80,PF-0193,Retail classification on file.
+MBC-0194,JAMES YIP,james.yip194@example.invalid,current_client,retail,yes,2024-12-29,portfolio_management,2025-10-12,72,PF-0194,Legacy account pre-2018.
+MBC-0195,SEBASTIAN YIP,SEBASTIAN.YIP195@example.invalid,current_client,retail,yes,2025-06-04,portfolio_management,2025-08-26,40,PF-0195,Legacy account pre-2018.
+MBC-0196,Chun Yu Osei,chun_yu_osei196@example.invalid,current_client,retail,yes,2021-11-24,portfolio_management,2025-12-08,36,PF-0196,Wants simplified statements.
+MBC-0197,Wing Chan,WING.CHAN197@example.invalid,current_client,retail,yes,2023-07-26,portfolio_management,2026-02-22,72,PF-0197,Wants simplified statements.
+MBC-0198,Oliver Chan,oliver_chan198@example.invalid,current_client,retail,yes,2025-10-06,portfolio_management,2026-07-27,22,PF-0198,
+MBC-0199,Ravi Rossi,ravi_rossi199@example.invalid,current_client,retail,yes,2022-01-31,portfolio_management,2026-05-19,84,PF-0199,Advisory only.
+MBC-0200,Siu Fung Bakshi,siu.fung.bakshi200@example.invalid,current_client,RETAIL,yes,2021-10-17,portfolio_management,2026-08-01,74,PF-0200,Wants simplified statements.
+MBC-0201,Thomas Cheung,thomas.cheung201@example.invalid,CURRENT_CLIENT,retail,yes,2023-03-20,portfolio_management,2025-03-30,38,PF-0201,Retail classification on file.
+MBC-0202,Priya Tsang,priya.tsang202@example.invalid,current_client,retail,yes,2022-05-02,portfolio_management,2026-07-08,55,PF-0202,Retail classification on file.
+MBC-0203,Ka Ming Tsang,ka.ming.tsang203@example.invalid,current_client,retail,yes,2023-11-13,portfolio_management,2026-01-04,7,PF-0203,Retail classification on file.
+MBC-0204, Ho Yin Sorensen ,ho.yin.sorensen204@example.invalid,current_client,retail,yes,2022-07-11,portfolio_management,2026-05-29,51,PF-0204,Legacy account pre-2018.
+MBC-0205,Ravi yeung,ravi.yeung205@example.invalid,current_client,retail,yes,2025-10-06,portfolio_management,2026-04-17,78,PF-0205,Advisory only.
+MBC-0206,James yeung,james_yeung206@example.invalid,current_client,retail,yes,2025-10-26,portfolio_management,2025-06-19,25,PF-0206,Wants simplified statements.
+MBC-0207, James Ma ,james_ma207@example.invalid,current_client,retail,yes,2025-12-27,portfolio_management,2026-01-22,83,PF-0207,Legacy account pre-2018.
+MBC-0208,Ingrid Lam,ingrid.lam208@example.invalid,current_client,retail,yes,2024-04-09,portfolio_management,2026-05-19,29,PF-0208,Retail classification on file.
+MBC-0209,Sebastian Hartley,SEBASTIAN.HARTLEY209@example.invalid,current_client,retail,yes,2022-02-02,portfolio_management,2026-03-10,84,PF-0209,Legacy account pre-2018.
+MBC-0210,Claire Fitzgerald,claire.fitzgerald210@example.invalid,current_client,RETAIL,yes,2025-10-21,portfolio_management,2026-07-25,69,PF-0210,Wants simplified statements.
+MBC-0211,Ingrid Lam,ingrid.lam211@example.invalid,current_client,retail,yes,2021-12-27,portfolio_management,2025-10-31,35,PF-0211,
+MBC-0212,Ravi fitzgerald,ravi_fitzgerald212@example.invalid,current_client,retail,yes,2024-12-15,portfolio_management,2026-05-03,22,PF-0212,Wants simplified statements.
+MBC-0213,MARCUS OKONKWO,marcus.okonkwo213@example.invalid,current_client,retail,yes,2023-10-04,portfolio_management,2025-11-17,52,PF-0213,Advisory only.
+MBC-0214,Aisha Pang,aisha.pang214@example.invalid,current_client, retail ,yes,2024-01-09,portfolio_management,2025-05-06,87,PF-0214,Retail classification on file.
+MBC-0215,Ka Ming Bakshi,KA.MING.BAKSHI215@example.invalid,current_client,retail,yes,2022-07-14,portfolio_management,2025-05-25,65,PF-0215,Wants simplified statements.
+MBC-0216,Elena Delacroix,elena.delacroix216@example.invalid,current_client,retail,yes,2025-10-01,portfolio_management,2026-02-18,96,PF-0216,Retail classification on file.
+MBC-0217,Yee Man Mendoza,yee.man.mendoza217@example.invalid, current_client ,retail,yes,,portfolio_management,2026-07-21,18,PF-0217,Wants simplified statements.
+MBC-0218,Kwok Wai Sit,kwok.wai.sit218@example.invalid, current_client ,retail,yes,2022-09-06,portfolio_management,2025-09-13,54,PF-0218,Advisory only.
+MBC-0219,THOMAS MENDOZA,thomas.mendoza219@example.invalid,current_client,retail,yes,2024-08-17,portfolio_management,2025-07-02,11,PF-0219,Legacy account pre-2018.
+MBC-0220,Beatrice Mendoza,beatrice_mendoza220@example.invalid,CURRENT_CLIENT,retail,yes,2025-10-20,portfolio_management,2025-04-28,72,PF-0220,Advisory only.
+MBC-0221,Mei Ling Hartley,mei.ling.hartley221@example.invalid,former_client,retail,yes,,portfolio_management,2024-06-15,60,PF-0221,
+MBC-0222, Ho Yin Nakamura ,ho.yin.nakamura222@example.invalid, former_client , unclassified ,,,portfolio_management,2023-05-20,1,,Redeemed 2024.
+MBC-0223,Noor Yeung,noor.yeung223@example.invalid, former_client ,professional,,,portfolio_management,2022-07-26,39,,
+MBC-0224,Elena Okonkwo,elena.okonkwo224@example.invalid,former_client,professional,,,portfolio_management,2024-04-23,63,PF-0224,Redeemed 2024.
+MBC-0225,Sebastian Chow,sebastian.chow225@example.invalid,former_client,professional,yes,2025-12-01,portfolio_management,2025-05-23,7,,Redeemed 2024.
+MBC-0226, Sebastian Cheung ,sebastian_cheung226@example.invalid,former_client,unclassified,,,portfolio_management,2025-01-28,41,PF-0226,Left for competitor.
+MBC-0227, Mei Ling Cheung ,mei.ling.cheung227@example.invalid,former_client,professional,yes,2021-11-23,portfolio_management,2022-05-10,3,,Redeemed 2024.
+MBC-0228,Oliver Lam,oliver_lam228@example.invalid,former_client,unclassified,yes,2025-10-12,portfolio_management,2024-11-21,60,,
+MBC-0229,CHUN YU LEE,chun.yu.lee229@example.invalid,former_client,,yes,2025-12-03,portfolio_management,2022-07-08,63,,Left for competitor.
+MBC-0230,Rafael Lee,rafael_lee230@example.invalid,former_client,,no,,portfolio_management,2023-07-10,38,,Left for competitor.
+MBC-0231,Mei Ling Yip,mei.ling.yip231@example.invalid,former_client,unclassified,yes,2024-04-13,portfolio_management,2024-04-29,79,PF-0231,Mandate terminated.
+MBC-0232,Claire lau,claire.lau232@example.invalid,former_client,unclassified,no,,portfolio_management,2023-06-21,33,PF-0232,Redeemed 2024.
+MBC-0233,Oliver osei,oliver.osei233@example.invalid,former_client,retail,no,,portfolio_management,2022-09-10,58,,Left for competitor.
+MBC-0234,RAFAEL DELACROIX,rafael.delacroix234@example.invalid,FORMER_CLIENT,,no,,portfolio_management,2025-06-01,10,PF-0234,"Account closed, retained for records."
+MBC-0235, Siu Fung Fitzgerald ,siu.fung.fitzgerald235@example.invalid,former_client, unclassified ,no,,portfolio_management,2023-12-08,32,,"Account closed, retained for records."
+MBC-0236,Ravi Sorensen,ravi.sorensen236@example.invalid,former_client,retail,no,,portfolio_management,2022-04-05,36,,"Account closed, retained for records."
+MBC-0237,Ingrid Okonkwo,INGRID.OKONKWO237@example.invalid, former_client ,professional,,,portfolio_management,2023-12-29,43,PF-0237,"Account closed, retained for records."
+MBC-0238,Daniel Tsang,daniel_tsang238@example.invalid,former_client,professional,yes,2024-02-10,portfolio_management,2022-09-14,0,,Left for competitor.
+MBC-0239,Ka Ming Chow,ka.ming.chow239@example.invalid,former_client,unclassified,,,portfolio_management,2023-07-03,82,PF-0239,Redeemed 2024.
+MBC-0240,Sebastian Ng,sebastian.ng240@example.invalid, former_client ,,,,portfolio_management,2023-11-15,90,,Mandate terminated.
+MBC-0241,Priya Sorensen,PRIYA.SORENSEN241@example.invalid,former_client,professional,yes,2022-12-19,portfolio_management,2024-07-25,70,,"Account closed, retained for records."
+MBC-0242,Sebastian Bakshi,SEBASTIAN.BAKSHI242@example.invalid, former_client ,RETAIL,no,,portfolio_management,2023-09-20,9,,
+MBC-0243,Yee Man Yeung,yee.man.yeung243@example.invalid,former_client,professional,no,,portfolio_management,2023-06-14,27,PF-0243,Redeemed 2024.
+MBC-0244,Noor Yeung,noor.yeung244@example.invalid, former_client ,,no,,portfolio_management,2025-05-23,1,,Mandate terminated.
+MBC-0245,Victor Delacroix,victor.delacroix245@example.invalid,former_client,professional,no,,portfolio_management,2022-07-13,62,PF-0245,Left for competitor.
+MBC-0246,Victor Lam,victor.lam246@example.invalid,former_client,Retail,yes,2025-08-30,portfolio_management,2023-12-13,60,,Mandate terminated.
+MBC-0247,James Tang,james_tang247@example.invalid,former_client,,no,,portfolio_management,2022-10-20,91,PF-0247,
+MBC-0248, Elena Rossi ,elena_rossi248@example.invalid, former_client ,retail,,,portfolio_management,2023-12-20,63,PF-0248,
+MBC-0249,Beatrice Rossi,beatrice_rossi249@example.invalid,former_client, unclassified ,no,,portfolio_management,2022-10-21,77,PF-0249,Mandate terminated.
+MBC-0250,Pak Ho Petrov,pak_ho_petrov250@example.invalid,former_client,unclassified,yes,,portfolio_management,2023-03-05,35,PF-0250,
+MBC-0251,Victor Delacroix,victor.delacroix251@example.invalid,former_client,,,,portfolio_management,2023-01-22,54,,Redeemed 2024.
+MBC-0252,Kwok Wai Fung,KWOK.WAI.FUNG252@example.invalid,former_client,,yes,2023-01-28,portfolio_management,2023-03-27,11,PF-0252,"Account closed, retained for records."
+MBC-0253,Noor Lam,noor.lam253@example.invalid,former_client,unclassified,yes,2022-10-04,portfolio_management,2022-08-26,95,,Mandate terminated.
+MBC-0254,Oliver Aldrich,oliver_aldrich254@example.invalid,former_client,retail,,,portfolio_management,2022-10-26,60,,Mandate terminated.
+MBC-0255,Kwok Wai Lee,KWOK.WAI.LEE255@example.invalid,former_client,retail,no,,portfolio_management,2022-10-06,89,PF-0255,Mandate terminated.
+MBC-0256,Oliver Ng,oliver.ng256@example.invalid, former_client ,unclassified,no,,portfolio_management,2022-04-26,0,PF-0256,
+MBC-0257,Rafael Ho,rafael.ho257@example.invalid,former_client,,yes,2025-05-02,portfolio_management,2025-03-24,77,PF-0257,Redeemed 2024.
+MBC-0258,Ho Yin Osei,ho_yin_osei258@example.invalid,former_client,,yes,2022-06-24,portfolio_management,2022-04-06,30,,
+MBC-0259,Ingrid Yip,ingrid.yip259@example.invalid,former_client,,,,portfolio_management,2024-06-30,23,,
+MBC-0260,Sebastian Sit,sebastian.sit260@example.invalid,former_client,retail,,,portfolio_management,2022-10-13,90,,
+MBC-0261,Noor Tang,noor.tang261@example.invalid,former_client,retail,,,portfolio_management,2024-05-09,55,PF-0261,"Account closed, retained for records."
+MBC-0262,James Cheung,james_cheung262@example.invalid, former_client ,professional,yes,2023-04-05,portfolio_management,2024-10-08,84,PF-0262,Left for competitor.
+MBC-0263, Ravi Petrov ,ravi.petrov263@example.invalid,former_client,Retail,yes,,portfolio_management,2024-05-18,46,,
+MBC-0264,Oliver Chan,oliver.chan264@example.invalid,former_client,retail,yes,,portfolio_management,2022-12-22,89,PF-0264,
+MBC-0265,Chun Yu Tsang,CHUN.YU.TSANG265@example.invalid,Former_client,professional,,,portfolio_management,2022-11-30,54,PF-0265,"Account closed, retained for records."
+MBC-0266,Mei Ling Sorensen,mei.ling.sorensen266@example.invalid,prospect,,,,event_registration,2024-12-07,85,,"Seminar sign-up, no follow-up."
+MBC-0267,James Sorensen,james.sorensen267@example.invalid,prospect,,,,event_registration,2026-03-07,4,,Attended Q2 market outlook breakfast.
+MBC-0268,Aisha Yeung,aisha_yeung268@example.invalid,prospect,,,,event_registration,2024-08-24,70,,Attended Q2 market outlook breakfast.
+MBC-0269, Elena Aldrich ,elena.aldrich269@example.invalid,prospect,,,,event_registration,2024-10-01,40,,"Seminar sign-up, no follow-up."
+MBC-0270,Noor Aldrich,NOOR.ALDRICH270@example.invalid,prospect,,,,event_registration,2026-03-18,80,,Attended Q2 market outlook breakfast.
+MBC-0271,Victor Wong,victor_wong271@example.invalid,prospect,,,,event_registration,2026-01-19,80,,Business card scanned at event.
+MBC-0272,Kwok Wai Lau,kwok.wai.lau272@example.invalid,prospect,,,,event_registration,2024-11-29,71,,Collected at HKVCA panel.
+MBC-0273,Mei Ling Okonkwo,MEI.LING.OKONKWO273@example.invalid,prospect,,,,event_registration,2024-04-24,58,,"Seminar sign-up, no follow-up."
+MBC-0274,Chun Yu Wong,chun.yu.wong274@example.invalid,prospect,,,,event_registration,2024-03-15,70,,Collected at HKVCA panel.
+MBC-0275,Claire Ma,claire_ma275@example.invalid, prospect ,,,,event_registration,2024-11-08,51,,
+MBC-0276, Daniel Cheung ,daniel.cheung276@example.invalid,prospect,,,,event_registration,2025-01-07,80,,"Registered, did not attend."
+MBC-0277,Yee Man Chan,yee_man_chan277@example.invalid,prospect,,,,event_registration,2026-01-10,71,,"Registered, did not attend."
+MBC-0278, Elena Sit ,elena.sit278@example.invalid,prospect,,,,event_registration,2024-09-26,48,,Collected at HKVCA panel.
+MBC-0279,Sui Lin Chow,sui.lin.chow279@example.invalid,prospect,,,,event_registration,2024-06-30,99,,"Seminar sign-up, no follow-up."
+MBC-0280,Kwok Wai Sorensen,kwok.wai.sorensen280@example.invalid,prospect,,,,event_registration,2025-12-05,0,,Business card scanned at event.
+MBC-0281,Claire Tang,claire.tang281@example.invalid,prospect,,,,event_registration,2026-07-06,62,,
+MBC-0282,Priya Pang,PRIYA.PANG282@example.invalid,prospect,,,,event_registration,2026-04-19,44,,Attended Q2 market outlook breakfast.
+MBC-0283, Sui Lin Chow ,sui.lin.chow283@example.invalid,PROSPECT,,,,event_registration,2025-03-23,36,,Business card scanned at event.
+MBC-0284,Sui Lin Sorensen,sui.lin.sorensen284@example.invalid,prospect,,,,event_registration,2025-06-23,27,,
+MBC-0285,KA MING TANG,ka.ming.tang285@example.invalid,prospect,,,,event_registration,2025-02-01,46,,"Registered, did not attend."
+MBC-0286,Noor Aldrich,noor.aldrich286@example.invalid,prospect,,,,event_registration,2025-03-23,95,,Collected at HKVCA panel.
+MBC-0287,YEE MAN PANG,yee.man.pang287@example.invalid,prospect,,,,event_registration,2024-10-28,13,,Collected at HKVCA panel.
+MBC-0288,Daniel Wong,daniel.wong288@example.invalid,prospect,,,,event_registration,2025-10-06,2,,
+MBC-0289, Ravi Lam ,ravi.lam289@example.invalid,prospect,,,,event_registration,2024-11-04,46,,"Seminar sign-up, no follow-up."
+MBC-0290,Siu Fung Chan,siu.fung.chan290@example.invalid,prospect,,,,event_registration,2025-11-13,10,,Collected at HKVCA panel.
+MBC-0291, Marcus Yip ,marcus.yip291@example.invalid,Prospect,,,,event_registration,2026-04-12,48,,Business card scanned at event.
+MBC-0292,Thomas Okonkwo,thomas_okonkwo292@example.invalid,prospect,,,,event_registration,2025-05-08,80,,Collected at HKVCA panel.
+MBC-0293,Ingrid Yip,INGRID.YIP293@example.invalid,prospect,,,,event_registration,2025-05-03,0,,
+MBC-0294,Sebastian Ho,sebastian.ho294@example.invalid,prospect,,,,event_registration,2025-08-18,55,,Collected at HKVCA panel.
+MBC-0295,WING BAKSHI,wing.bakshi295@example.invalid,prospect,,,,event_registration,2025-01-25,88,,Collected at HKVCA panel.
+MBC-0296,Claire Pang,claire.pang296@example.invalid,prospect,,,,event_registration,2026-06-10,51,,"Seminar sign-up, no follow-up."
+MBC-0297,NOOR BAKSHI,NOOR.BAKSHI297@example.invalid,Prospect,,,,event_registration,2024-05-06,4,,Business card scanned at event.
+MBC-0298,Beatrice Yeung,beatrice_yeung298@example.invalid,prospect,,,,event_registration,2025-03-08,67,,Collected at HKVCA panel.
+MBC-0299,Marcus Tang,marcus.tang299@example.invalid, prospect ,,,,event_registration,2025-10-17,76,,Business card scanned at event.
+MBC-0300,Noor Fitzgerald,noor.fitzgerald300@example.invalid,prospect,,,,event_registration,2024-03-26,46,,Attended Q2 market outlook breakfast.
+MBC-0301,Priya Aldrich,priya.aldrich301@example.invalid,prospect,,,,event_registration,2025-12-23,43,,Collected at HKVCA panel.
+MBC-0302,Victor Chan,victor_chan302@example.invalid,prospect,,,,event_registration,2026-04-23,19,,"Registered, did not attend."
+MBC-0303,Ingrid Tsang,ingrid.tsang303@example.invalid,prospect,,,,event_registration,2024-04-26,67,,Collected at HKVCA panel.
+MBC-0304,Beatrice Sit,beatrice.sit304@example.invalid,prospect,,,,event_registration,2024-03-08,30,,
+MBC-0305,Claire Yeung,claire.yeung305@example.invalid,prospect,,,,event_registration,2026-05-23,70,,Attended Q2 market outlook breakfast.
+MBC-0306,Aisha Fitzgerald,aisha.fitzgerald306@example.invalid,prospect,,,,event_registration,2025-11-14,22,,
+MBC-0307,Marcus Cheung,MARCUS.CHEUNG307@example.invalid,prospect,,,,event_registration,2024-04-16,85,,Attended Q2 market outlook breakfast.
+MBC-0308,Ingrid Kwok,ingrid.kwok308@example.invalid, prospect ,,,,event_registration,2026-06-24,32,,Collected at HKVCA panel.
+MBC-0309,Claire Yip,claire.yip309@example.invalid, prospect ,,,,event_registration,2024-07-19,53,,Collected at HKVCA panel.
+MBC-0310, Pak Ho Lau ,pak.ho.lau310@example.invalid,prospect,,,,event_registration,2024-11-27,94,,
+MBC-0311,Kwok Wai Delacroix,kwok_wai_delacroix311@example.invalid,prospect,,,,event_registration,2025-04-05,7,,Attended Q2 market outlook breakfast.
+MBC-0312,Victor Osei,VICTOR.OSEI312@example.invalid,prospect,,,,event_registration,2026-05-20,72,,Attended Q2 market outlook breakfast.
+MBC-0313,YEE MAN LEE,YEE.MAN.LEE313@example.invalid,prospect,,,,event_registration,2024-10-24,57,,Attended Q2 market outlook breakfast.
+MBC-0314,Claire Sorensen,CLAIRE.SORENSEN314@example.invalid,prospect,,,,event_registration,2024-05-24,79,,Collected at HKVCA panel.
+MBC-0315,Aisha Aldrich,AISHA.ALDRICH315@example.invalid,prospect,,,,event_registration,2025-11-10,56,,"Registered, did not attend."
+MBC-0316,Mei Ling Ng,mei.ling.ng316@example.invalid,prospect,,,,event_registration,2024-12-19,67,,
+MBC-0317,Chun yu ho,chun.yu.ho317@example.invalid,prospect,,,,event_registration,2024-07-19,84,,Attended Q2 market outlook breakfast.
+MBC-0318,Sui Lin Mendoza,sui_lin_mendoza318@example.invalid,prospect,,,,event_registration,2026-02-17,73,,"Registered, did not attend."
+MBC-0319,Claire Sit,CLAIRE.SIT319@example.invalid, prospect ,,,,event_registration,2024-11-02,28,,Collected at HKVCA panel.
+MBC-0320,Margit aldrich,MARGIT.ALDRICH320@example.invalid,prospect,,,,event_registration,2025-02-12,1,,Business card scanned at event.
+MBC-0321,Margit kwok,margit.kwok321@example.invalid,prospect,,,,event_registration,2025-09-03,22,,"Seminar sign-up, no follow-up."
+MBC-0322,Marcus Petrov,marcus.petrov322@example.invalid,prospect,,,,event_registration,2024-03-06,22,,"Seminar sign-up, no follow-up."
+MBC-0323,Kwok Wai Lau,kwok_wai_lau323@example.invalid,Prospect,,,,event_registration,2024-11-10,95,,Business card scanned at event.
+MBC-0324,Wing Chow,wing.chow324@example.invalid,prospect,,,,event_registration,2025-06-08,98,,"Registered, did not attend."
+MBC-0325, Elena Pang ,ELENA.PANG325@example.invalid,prospect,,,,event_registration,2024-12-17,46,,"Seminar sign-up, no follow-up."
+MBC-0326,Marcus Lau,MARCUS.LAU326@example.invalid,PROSPECT,,,,event_registration,2024-05-09,11,,Attended Q2 market outlook breakfast.
+MBC-0327,Thomas Cheung,thomas_cheung327@example.invalid, prospect ,,,,event_registration,2024-07-12,95,,"Registered, did not attend."
+MBC-0328,Thomas Cheung,thomas.cheung328@example.invalid,PROSPECT,,,,event_registration,2024-08-31,1,,"Registered, did not attend."
+MBC-0329,Aisha Chow,aisha_chow329@example.invalid,prospect,,,,event_registration,2026-02-17,7,,Attended Q2 market outlook breakfast.
+MBC-0330,Chun Yu Bakshi,CHUN.YU.BAKSHI330@example.invalid,Prospect,,,,event_registration,2025-04-12,8,,
+MBC-0331,Mei Ling Bakshi,MEI.LING.BAKSHI331@example.invalid,prospect,,,,event_registration,2025-05-25,75,,"Seminar sign-up, no follow-up."
+MBC-0332,Ravi Hartley,ravi.hartley332@example.invalid,prospect,,,,event_registration,2025-12-20,45,,"Registered, did not attend."
+MBC-0333, Ravi Lau ,ravi.lau333@example.invalid,prospect,,,,event_registration,2026-02-18,5,,Business card scanned at event.
+MBC-0334,Siu Fung Pang,siu.fung.pang334@example.invalid,prospect,,,,event_registration,2024-09-16,39,,Collected at HKVCA panel.
+MBC-0335,Rafael Sorensen,rafael.sorensen335@example.invalid,prospect,,,,event_registration,2025-11-26,41,,Attended Q2 market outlook breakfast.
+MBC-0336,Thomas Lee,thomas.lee336@example.invalid,PROSPECT,,,,event_registration,2026-05-24,83,,Collected at HKVCA panel.
+MBC-0337,James Cheung,james.cheung337@example.invalid,prospect,,,,event_registration,2024-08-13,89,,Collected at HKVCA panel.
+MBC-0338,Sebastian Ma,sebastian_ma338@example.invalid,prospect,,,,event_registration,2024-06-09,0,,Attended Q2 market outlook breakfast.
+MBC-0339,Ingrid Nakamura,ingrid.nakamura339@example.invalid,prospect,,,,event_registration,2025-03-14,30,,
+MBC-0340,Oliver Petrov,oliver_petrov340@example.invalid,prospect,,,,event_registration,2025-05-06,70,,
+MBC-0341,Daniel Lau,daniel.lau341@example.invalid,prospect,,,,event_registration,2025-06-13,4,,Collected at HKVCA panel.
+MBC-0342,Chun Yu Cheung,chun.yu.cheung342@example.invalid,prospect,,,,event_registration,2025-03-22,96,,
+MBC-0343,Mei ling kwok,mei.ling.kwok343@example.invalid,prospect,,,,event_registration,2026-01-09,71,,
+MBC-0344,KWOK WAI PANG,KWOK.WAI.PANG344@example.invalid,prospect,,,,event_registration,2024-03-20,32,,"Registered, did not attend."
+MBC-0345,Elena Cheung,elena.cheung345@example.invalid, prospect ,,,,event_registration,2025-06-17,39,,Business card scanned at event.
+MBC-0346,Daniel Chan,DANIEL.CHAN346@example.invalid,prospect,,,,event_registration,2025-12-01,31,,Business card scanned at event.
+MBC-0347,Daniel Petrov,daniel_petrov347@example.invalid, prospect ,,,,event_registration,2026-01-31,50,,Business card scanned at event.
+MBC-0348,Beatrice Sorensen,BEATRICE.SORENSEN348@example.invalid,prospect,,,,event_registration,2025-07-24,1,,
+MBC-0349,Ho Yin Nakamura,ho_yin_nakamura349@example.invalid,Prospect,,,,event_registration,2024-03-21,55,,"Seminar sign-up, no follow-up."
+MBC-0350,Elena Lee,elena.lee350@example.invalid,prospect,,,,event_registration,2025-04-20,58,,
+MBC-0351,Ingrid Ma,ingrid_ma351@example.invalid,prospect,,,,event_registration,2025-03-11,2,,Business card scanned at event.
+MBC-0352,Chun Yu Ho,chun.yu.ho352@example.invalid,prospect,,,,event_registration,2024-10-26,89,,Attended Q2 market outlook breakfast.
+MBC-0353,Priya tang,priya.tang353@example.invalid,prospect,,,,event_registration,2025-01-20,76,,Business card scanned at event.
+MBC-0354,Wing Nakamura,wing_nakamura354@example.invalid,prospect,,,,event_registration,2026-02-20,37,,Business card scanned at event.
+MBC-0355,Victor Ho,victor.ho355@example.invalid,prospect,,,,event_registration,2024-04-19,50,,Attended Q2 market outlook breakfast.
+MBC-0356,Pak ho wong,pak.ho.wong356@example.invalid,,unclassified,,,referral,2023-05-11,38,,
+MBC-0357,Ingrid Chow,ingrid.chow357@example.invalid,,unclassified,,,referral,2025-10-14,9,,"Referral, not yet onboarded."
+MBC-0358,CHUN YU NG,chun_yu_ng358@example.invalid,,unclassified,,,referral,2025-10-19,98,,
+MBC-0359,CHUN YU CHAN,chun.yu.chan359@example.invalid,,unclassified,,,referral,2025-11-23,22,,Warm intro from board member.
+MBC-0360, Aisha Delacroix ,aisha.delacroix360@example.invalid,,unclassified,,,referral,2024-02-13,60,,
+MBC-0361,Ka Ming Cheung,ka.ming.cheung361@example.invalid,, unclassified ,,,referral,2025-08-14,43,,
+MBC-0362,Hana Sit,hana.sit362@example.invalid,,unclassified,,,referral,2026-01-30,82,,Warm intro from board member.
+MBC-0363,Thomas kwok,thomas.kwok363@example.invalid,,unclassified,,,referral,2024-10-14,35,,Warm intro from board member.
+MBC-0364, Noor Hartley ,noor.hartley364@example.invalid,,unclassified,,,referral,2024-02-07,30,,
+MBC-0365, Claire Ng ,claire_ng365@example.invalid,,unclassified,,,referral,2023-10-28,24,,"Referral, not yet onboarded."
+MBC-0366,James Osei,james_osei366@example.invalid,,unclassified,,,referral,2024-01-27,59,,No KYC on file.
+MBC-0367,Beatrice Sorensen,BEATRICE.SORENSEN367@example.invalid,,unclassified,,,referral,2026-01-14,67,,"Referral, not yet onboarded."
+MBC-0368,Sebastian Osei,sebastian.osei368@example.invalid,,unclassified,,,referral,2024-04-19,18,,Introduced by existing client.
+MBC-0369,Hana Fung,hana.fung369@example.invalid,,unclassified,,,referral,2024-11-06,4,,Warm intro from board member.
+MBC-0370,Noor Okonkwo,noor.okonkwo370@example.invalid,,unclassified,,,referral,2024-04-04,0,,Warm intro from board member.
+MBC-0371,James Kwok,james.kwok371@example.invalid,,unclassified,,,referral,2026-01-28,70,,Warm intro from board member.
+MBC-0372,Sui Lin Petrov,sui.lin.petrov372@example.invalid,, unclassified ,,,referral,2023-09-30,15,,"Referral, not yet onboarded."
+MBC-0373,Yee Man Sit,yee.man.sit373@example.invalid,,UNCLASSIFIED,,,referral,2024-11-05,69,,
+MBC-0374,Beatrice Hartley,beatrice.hartley374@example.invalid,,unclassified,,,referral,2024-04-01,63,,
+MBC-0375,Elena Delacroix,elena_delacroix375@example.invalid,,unclassified,,,referral,2024-07-04,85,,No KYC on file.
+MBC-0376,Sebastian Hartley,sebastian_hartley376@example.invalid,,UNCLASSIFIED,,,referral,2024-04-12,94,,Warm intro from board member.
+MBC-0377,Ho Yin Lam,ho_yin_lam377@example.invalid,,unclassified,,,referral,2024-11-09,11,,Introduced by existing client.
+MBC-0378,Chun Yu Sit,chun.yu.sit378@example.invalid,,unclassified,,,referral,2023-08-03,15,,Introduced by existing client.
+MBC-0379,Priya Delacroix,priya.delacroix379@example.invalid,,unclassified,,,referral,2025-05-12,60,,"Referral, not yet onboarded."
+MBC-0380,Kwok wai yeung,kwok.wai.yeung380@example.invalid,,unclassified,,,referral,2025-12-23,26,,Warm intro from board member.
+MBC-0381,ELENA PANG,elena.pang381@example.invalid,,unclassified,,,referral,2024-01-25,11,,Introduced by existing client.
+MBC-0382,Siu Fung Nakamura,siu.fung.nakamura382@example.invalid,,unclassified,,,referral,2025-04-30,0,,"Referral, not yet onboarded."
+MBC-0383,Chun Yu Aldrich,chun.yu.aldrich383@example.invalid,,unclassified,,,referral,2026-04-15,1,,No KYC on file.
+MBC-0384,Wing Okonkwo,wing.okonkwo384@example.invalid,,unclassified,,,referral,2026-05-06,5,,Introduced by existing client.
+MBC-0385,Daniel osei,daniel.osei385@example.invalid,,unclassified,,,referral,2024-03-08,89,,No KYC on file.
+MBC-0386,Wing Chow,wing.chow386@example.invalid,,UNCLASSIFIED,,,referral,2026-06-12,1,,"Referral, not yet onboarded."
+MBC-0387,James Lau,JAMES.LAU387@example.invalid,,unclassified,,,referral,2023-06-23,60,,
+MBC-0388,Sebastian Ho,sebastian_ho388@example.invalid,,unclassified,,,referral,2025-12-01,77,,Warm intro from board member.
+MBC-0389,Sui Lin Lam,sui.lin.lam389@example.invalid,,unclassified,,,referral,2023-09-04,10,,"Referral, not yet onboarded."
+MBC-0390,Beatrice Hartley,beatrice.hartley390@example.invalid,,unclassified,,,referral,2025-12-30,8,,Introduced by existing client.
+MBC-0391,Marcus Ng,marcus.ng391@example.invalid,,unclassified,,,referral,2025-08-13,9,,Introduced by existing client.
+MBC-0392,Ho Yin Ma,ho_yin_ma392@example.invalid,, unclassified ,,,referral,2025-05-06,49,,Introduced by existing client.
+MBC-0393,Chun yu fitzgerald,chun.yu.fitzgerald393@example.invalid,,unclassified,,,referral,2025-02-15,95,,No KYC on file.
+MBC-0394,Kwok Wai Fung,kwok.wai.fung394@example.invalid,,UNCLASSIFIED,,,referral,2026-01-22,33,,No KYC on file.
+MBC-0395,Priya Lau,priya.lau395@example.invalid,,UNCLASSIFIED,,,referral,2025-03-10,75,,
+MBC-0396,Marcus Osei,marcus_osei396@example.invalid,,unclassified,,,referral,2024-12-13,61,,"Referral, not yet onboarded."
+MBC-0397,Victor tang,victor_tang397@example.invalid,,unclassified,,,referral,2024-12-29,45,,Warm intro from board member.
+MBC-0398,Marcus Delacroix,MARCUS.DELACROIX398@example.invalid,, unclassified ,,,referral,2025-11-20,10,,"Referral, not yet onboarded."
+MBC-0399,Beatrice yeung,beatrice.yeung399@example.invalid,,unclassified,,,referral,2023-08-30,69,,
+MBC-0400,Thomas Nakamura,thomas_nakamura400@example.invalid,, unclassified ,,,referral,2025-04-19,7,,"Referral, not yet onboarded."
+MBC-0401,Victor Ma,victor.ma49@example.invalid, current_client ,unclassified,yes,,portfolio_management,2025-10-10,29,PF-0049,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0402,Claire Kwok,claire.kwok99@example.invalid,current_client,professional,,2024-05-24,portfolio_management,2025-08-13,42,PF-0099,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0403,James Osei,james_osei125@example.invalid,current_client,retail,yes,,portfolio_management,2025-07-08,97,PF-0125,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0404,SEBASTIAN NG,sebastian.ng240@example.invalid, former_client ,,no,,portfolio_management,2023-11-15,90,,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0405,KA MING BAKSHI,KA.MING.BAKSHI215@example.invalid,current_client,retail,,2022-07-14,portfolio_management,2025-05-25,65,PF-0215,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0406,DANIEL OSEI,daniel.osei385@example.invalid,,retail,yes,,referral,2024-03-08,89,,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0407,Victor Wong,victor_wong271@example.invalid,prospect,unclassified,yes,,event_registration,2026-01-19,80,,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0408,MARCUS NG,marcus.ng391@example.invalid,,retail,,,referral,2025-08-13,9,,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0409,Ka Ming Cheung,ka.ming.cheung1@example.invalid,CURRENT_CLIENT,professional,,2024-05-04,portfolio_management,2025-10-18,32,PF-0001,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0410,SEBASTIAN CHOW,sebastian.chow225@example.invalid,former_client,professional,yes,2025-12-01,portfolio_management,2025-05-23,7,,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0411,Beatrice Hartley,beatrice.hartley390@example.invalid,,,,,referral,2025-12-30,8,,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0412,OLIVER OSEI,oliver.osei31@example.invalid,current_client,,yes,2025-08-23,portfolio_management,2026-03-16,22,PF-0031,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0413,Siu Fung Tsang,SIU.FUNG.TSANG32@example.invalid,current_client,unclassified,,2024-01-19,portfolio_management,2026-07-11,26,PF-0032,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0414,CLAIRE SIT,CLAIRE.SIT319@example.invalid, prospect ,professional,,,event_registration,2024-11-02,28,,Possible duplicate record — merged from 2019 CRM migration.
+MBC-0415,Mei Ling Cheung,mei.ling.cheung227@example.invalid,former_client,retail,,2021-11-23,portfolio_management,2022-05-10,3,,Possible duplicate record — merged from 2019 CRM migration.
